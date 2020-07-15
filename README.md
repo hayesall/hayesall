@@ -4,6 +4,6 @@
 
 | Currently Reading       |
 | :---------------------: |
-| ![Snow Crash](static/images/cover.jpg)  |
+| ![Snow Crash](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg)  |
 | Snow Crash         |
 | by: Neal Stephenson   |
