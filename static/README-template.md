@@ -1,6 +1,7 @@
 ## Hi there, I'm Alexander! 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/alexanderlhayes?label=%40alexanderlhayes&style=social) ![GitHub followers](https://img.shields.io/github/followers/hayesall?label=%40hayesall&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alexanderlhayes?label=%40alexanderlhayes&style=social)](https://twitter.com/alexanderlhayes)
+[![GitHub followers](https://img.shields.io/github/followers/hayesall?label=%40hayesall&style=social)](https://github.com/hayesall)
 
 I'm a Ph.D. student by day and a software engineer by the cover of night.
 My research focuses on Statistical Relational Learning (STARAI) and its
@@ -13,7 +14,7 @@ intelligence by making results open, reproducible, and accessible to others.
 - 🔧 Building tools to make STARAI more accessible
 - ✍️ Writing longer discussions on [my blog](https://hayesall.com/blog/)
 - 📫 Responding to emails: hayesall@iu.edu
-- 📚 Reading on Bayesian Networks, see my notes at: https://bayes.hayesall.com
+- 📚 Reading on Bayesian Networks, see my notes at: http://bayes.hayesall.com
 - 🖥️ Implementing in Python/Bash/Java, pulling Julia and Rust into my workflows
 
 | Currently Reading       | Dog Tax |
