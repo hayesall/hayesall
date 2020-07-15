@@ -4,6 +4,6 @@
 
 | Currently Reading       |
 | :---------------------: |
-| ![Snow Crash](static/images/cover.jpg)  |
-| Snow Crash         |
-| by: Neal Stephenson   |
+| ![{{ book_name }}](static/images/cover.jpg)  |
+| {{ book_name }}         |
+| by: {{ book_author }}   |
