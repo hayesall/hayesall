@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Mathematics for Machine Learning](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Mathematics for Machine Learning | Ronin |
-| by: Marc Peter Deisenroth | |
+| ![Frankenstein](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Frankenstein | Ronin |
+| by: Mary Shelley | |
