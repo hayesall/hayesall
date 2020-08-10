@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Frankenstein](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Frankenstein | Ronin |
-| by: Mary Shelley | |
+| ![When You Are Engulfed in Flames](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| When You Are Engulfed in Flames | Ronin |
+| by: David Sedaris | |
