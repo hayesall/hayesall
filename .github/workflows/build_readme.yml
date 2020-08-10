@@ -1,0 +1,47 @@
+name: Build README
+on:
+  schedule:
+    - cron: '0 0 */2 * *'
+  workflow_dispatch:
+    inputs:
+      logger:
+        description: 'Show logs and dry run (Set 1 to show logs)'
+        required: False
+        default: 0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |-
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Rebuild README
+      run: |-
+        if [[ 0 != "${{ github.events.inputs.logger }}" ]]; then
+          python -m scrape -d -l
+        else
+          python -m scrape
+        fi
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config --global user.email "alexander@batflyer.net"
+        git config --global user.name "batflyer"
+        git add -A
+        git commit -m "📦 Rebuild README" || exit 0
+        git push
