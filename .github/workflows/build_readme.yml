@@ -32,7 +32,7 @@ jobs:
         pip install -r requirements.txt
     - name: Rebuild README
       run: |-
-        if [[ 0 != "${{ github.events.inputs.logger }}" ]]; then
+        if [[ 0 != "${{ github.event.inputs.logger }}" ]]; then
           python -m scrape -d -l
         else
           python -m scrape
