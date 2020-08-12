@@ -7,7 +7,7 @@ on:
       logger:
         description: 'Show logs and dry run (Set 1 to show logs)'
         required: False
-        default: 0
+        default: ""
 
 jobs:
   build:
@@ -32,7 +32,7 @@ jobs:
         pip install -r requirements.txt
     - name: Rebuild README
       run: |-
-        if [[ 0 != "${{ github.event.inputs.logger }}" ]]; then
+        if [[ "" != "${{ github.event.inputs.logger }}" ]]; then
           python -m scrape -d -l
         else
           python -m scrape
