@@ -33,6 +33,7 @@ MIT License
 """
 
 import argparse
+import sys
 from bs4 import BeautifulSoup
 from liquid import Liquid
 import requests
@@ -57,19 +58,27 @@ soup = BeautifulSoup(html_page.text, "html.parser")
 currently_reading = soup.find("li", class_="searchResultItem")
 
 # The cover image
-_cover = "https:" + currently_reading.a.img.get("src")
+try:
+    _cover = "https:" + currently_reading.a.img.get("src")
+except AttributeError:
+    print("This probably means the 'Currently Reading' list is empty.")
+    sys.exit(0)
+if _cover == "https:/images/icons/avatar_book-sm.png":
+    # TODO(hayesall): This handles an error where the cover is not found.
+    _cover = "https://openlibrary.org/images/icons/avatar_book-sm.png"
 if LOG:
     print("Cover Image:", _cover)
 
-# Download the cover image so I don't hit their API to hard.
-with open("static/images/cover.jpg", "wb") as _fh:
-    response = requests.get(_cover, stream=True)
-    if not response.ok:
-        print(response)
-    for block in response.iter_content(1024):
-        if not block:
-            break
-        _fh.write(block)
+if not ARGS.dry_run:
+    # Download the cover image so I don't hit their API to hard.
+    with open("static/images/cover.jpg", "wb") as _fh:
+        response = requests.get(_cover, stream=True)
+        if not response.ok:
+            print(response)
+        for block in response.iter_content(1024):
+            if not block:
+                break
+            _fh.write(block)
 
 # The title
 _title = currently_reading.h3.a.text
