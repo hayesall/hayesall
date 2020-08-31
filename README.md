@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| The Man Who Mistook His Wife for a Hat and Other Clinical Tales | Ronin |
-| by: Oliver Sacks | |
+| ![The Reasoned Schemer](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| The Reasoned Schemer | Ronin |
+| by: Daniel P. Friedman | |
