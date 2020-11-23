@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Superintelligence: Paths, Dangers, Strategies](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Superintelligence: Paths, Dangers, Strategies | Ronin |
-| by: Nick Bostrom | |
+| ![Harry Potter and the Philosopher's Stone](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Harry Potter and the Philosopher's Stone | Ronin |
+| by: J. K. Rowling | |
