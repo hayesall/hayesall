@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Reinforcement Learning](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Reinforcement Learning | Ronin |
-| by: Richard S. Sutton | |
+| ![Howl's Moving Castle (Howl's Moving Castle #1)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Howl's Moving Castle (Howl's Moving Castle #1) | Ronin |
+| by: Diana Wynne Jones | |
