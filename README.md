@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Howl's Moving Castle (Howl's Moving Castle #1)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Howl's Moving Castle (Howl's Moving Castle #1) | Ronin |
-| by: Diana Wynne Jones | |
+| ![Civil Disobedience](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Civil Disobedience | Ronin |
+| by: Henry David Thoreau | |
