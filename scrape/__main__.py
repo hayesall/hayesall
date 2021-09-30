@@ -90,11 +90,7 @@ _author = currently_reading.find("span", class_="bookauthor").a.text
 if LOG:
     print("Author:", _author)
 
-# Render the template with liquid and write the results back to README.md
-with open("static/README-template.md", "r") as _fh:
-    readme = _fh.read()
-
-liq = Liquid(readme)
+liq = Liquid("static/README-template.md")
 ret = liq.render(book_name=_title, book_author=_author,)
 
 if ARGS.dry_run:
