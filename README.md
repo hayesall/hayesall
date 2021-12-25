@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Hillbilly Elegy](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Hillbilly Elegy | Ronin |
-| by: J. D. Vance | |
+| ![The Perks of Being a Wallflower](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| The Perks of Being a Wallflower | Ronin |
+| by: Stephen Chbosky | |
