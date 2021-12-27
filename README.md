@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Perks of Being a Wallflower](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| The Perks of Being a Wallflower | Ronin |
-| by: Stephen Chbosky | |
+| ![Free Software, Free Society: Selected Essays of Richard M. Stallman](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Free Software, Free Society: Selected Essays of Richard M. Stallman | Ronin |
+| by: Richard Stallman | |
