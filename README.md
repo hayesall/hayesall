@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Second Machine Age](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| The Second Machine Age | Ronin |
-| by: Erik Brynjolfsson | |
+| ![Prediction machines](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Prediction machines | Ronin |
+| by: Ajay Agrawal | |
