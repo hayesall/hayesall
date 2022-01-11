@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Barking Up the Wrong Tree](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Barking Up the Wrong Tree | Ronin |
-| by: Eric Barker | |
+| ![Fortunes and misfortunes of the famous Moll Flanders](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Fortunes and misfortunes of the famous Moll Flanders | Ronin |
+| by: Daniel Defoe | |
