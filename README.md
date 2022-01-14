@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Fortunes and misfortunes of the famous Moll Flanders](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Fortunes and misfortunes of the famous Moll Flanders | Ronin |
-| by: Daniel Defoe | |
+| ![Haroun and the Sea of Stories](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Haroun and the Sea of Stories | Ronin |
+| by: Salman Rushdie | |
