@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Greenwitch (The Dark Is Rising #3)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Greenwitch (The Dark Is Rising #3) | Ronin |
-| by: Susan Cooper | |
+| ![Realms of the Human Unconscious](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| Realms of the Human Unconscious | Ronin |
+| by: Stanislav Grof | |
