@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Introduction to C & GUI Programming](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| Introduction to C & GUI Programming | Ronin |
-| by: Simon Long | |
+| ![It Can't Happen Here (Penguin Modern Classics)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| It Can't Happen Here (Penguin Modern Classics) | Ronin |
+| by: Sinclair Lewis | |
