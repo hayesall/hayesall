@@ -19,6 +19,6 @@ intelligence by making results open, reproducible, and accessible to others.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![It Can't Happen Here (Penguin Modern Classics)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| It Can't Happen Here (Penguin Modern Classics) | Ronin |
-| by: Sinclair Lewis | |
+| ![The Grey King (The Dark is Rising #4)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| The Grey King (The Dark is Rising #4) | Ronin |
+| by: Susan Cooper | |
