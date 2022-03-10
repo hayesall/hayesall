@@ -5,10 +5,9 @@ I'm a Ph.D. student by day and a software engineer by the cover of night.
 My research focuses on Statistical Relational Learning (STARAI) and its
 applications to Health Informatics problems.
 
-- 🔧 Building tools to make STARAI more accessible
+- 🔧 Building tools to make STARAI more accessible. See my progress in the [srlearn organization](https://github.com/srlearn/)
 - ✍️ Writing longer discussions on [my blog](https://hayesall.com/blog/)
-- 📚 Reading on Bayesian Networks, see my notes at: http://bayes.hayesall.com
-- 🖥️ Implementing in Python/Bash/Java, pulling Julia and Rust into my workflows
+- 👁️ Learning about computer vision
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
