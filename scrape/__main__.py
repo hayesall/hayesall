@@ -69,6 +69,17 @@ if _cover == "https:/images/icons/avatar_book-sm.png":
 if LOG:
     print("Cover Image:", _cover)
 
+
+# The url
+try:
+    _book_url = "https://openlibrary.org" + currently_reading.a.get("href")
+except AttributeError:
+    print("This probably means the 'Currently Reading' list is empty.")
+    sys.exit(0)
+if LOG:
+    print("Book URL:", _book_url)
+
+
 if not ARGS.dry_run:
     # Download the cover image so I don't hit their API to hard.
     with open("static/images/cover.jpg", "wb") as _fh:
@@ -91,7 +102,7 @@ if LOG:
     print("Author:", _author)
 
 liq = Liquid("static/README-template.md")
-ret = liq.render(book_name=_title, book_author=_author,)
+ret = liq.render(book_name=_title, book_author=_author, book_url=_book_url)
 
 if ARGS.dry_run:
     print(ret)
