@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Breakfast at Tiffany's](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Breakfast at Tiffany's](https://openlibrary.org/works/OL1992167W?edition=ia%3Abreakfastattiffa00capo_426) | Ronin |
-| by: Truman Capote | |
+| ![Napoleon's Buttons](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Napoleon's Buttons](https://openlibrary.org/works/OL15175439W) | Ronin |
+| by: Penny Le Couteur | |
