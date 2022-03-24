@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Napoleon's Buttons](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Napoleon's Buttons](https://openlibrary.org/works/OL15175439W) | Ronin |
-| by: Penny Le Couteur | |
+| ![Spirit Level](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Spirit Level](https://openlibrary.org/works/OL21029217W?edition=ia%3Aspiritlevelwhyeq0000unse) | Ronin |
+| by: Richard Wilkinson | |
