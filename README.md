@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Spirit Level](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Spirit Level](https://openlibrary.org/works/OL21029217W?edition=ia%3Aspiritlevelwhyeq0000unse) | Ronin |
-| by: Richard Wilkinson | |
+| ![Methuselah's children](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Methuselah's children](https://openlibrary.org/works/OL59726W?edition=ia%3Amethuselahschild00rob_u0t) | Ronin |
+| by: Robert A. Heinlein | |
