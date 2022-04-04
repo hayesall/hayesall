@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Wonder boys](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Wonder boys](https://openlibrary.org/works/OL119443W?edition=ia%3Awonderboysnovel0000chab) | Ronin |
-| by: Michael Chabon | |
+| ![An Anthropologist on Mars](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [An Anthropologist on Mars](https://openlibrary.org/works/OL1811905W?edition=ia%3Aanthropologiston0000sack) | Ronin |
+| by: Oliver Sacks | |
