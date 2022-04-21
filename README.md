@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![An Anthropologist on Mars](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [An Anthropologist on Mars](https://openlibrary.org/works/OL1811905W?edition=ia%3Aanthropologiston0000sack) | Ronin |
-| by: Oliver Sacks | |
+| ![The Hound of the Baskervilles](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Hound of the Baskervilles](https://openlibrary.org/works/OL262454W?edition=ia%3Acihm_79798) | Ronin |
+| by: Arthur Conan Doyle | |
