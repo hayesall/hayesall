@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Hound of the Baskervilles](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Hound of the Baskervilles](https://openlibrary.org/works/OL262454W?edition=ia%3Ahoundofbaskervil00doylrich) | Ronin |
-| by: Arthur Conan Doyle | |
+| ![Wanderlust: A History of Walking](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Wanderlust: A History of Walking](https://openlibrary.org/works/OL12446W?edition=ia%3Awanderlusthistor0000soln) | Ronin |
+| by: Rebecca Solnit | |
