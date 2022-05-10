@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Wanderlust: A History of Walking](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Wanderlust: A History of Walking](https://openlibrary.org/works/OL12446W?edition=ia%3Awanderlusthistor0000soln) | Ronin |
-| by: Rebecca Solnit | |
+| ![Madame Bovary](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Madame Bovary](https://openlibrary.org/works/OL27249114W?edition=ia%3Amadamebovaryextr0000flau) | Ronin |
+| by: Eleanor Aveling | |
