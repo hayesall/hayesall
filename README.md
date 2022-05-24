@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Madame Bovary](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Madame Bovary](https://openlibrary.org/works/OL27249114W?edition=ia%3Amadamebovaryextr0000flau) | Ronin |
-| by: Eleanor Aveling | |
+| ![Sense and Sensibility](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Sense and Sensibility](https://openlibrary.org/works/OL66562W?edition=ia%3Asensesensibility1900aust) | Ronin |
+| by: Jane Austen | |
