@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Sense and Sensibility](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Sense and Sensibility](https://openlibrary.org/works/OL66562W?edition=ia%3Asensesensibility1900aust) | Ronin |
-| by: Jane Austen | |
+| ![The Invisible Life of Addie LaRue](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Invisible Life of Addie LaRue](https://openlibrary.org/works/OL20796936W) | Ronin |
+| by: V. E. Schwab | |
