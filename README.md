@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Invisible Life of Addie LaRue](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Invisible Life of Addie LaRue](https://openlibrary.org/works/OL20796936W) | Ronin |
-| by: V. E. Schwab | |
+| ![Men Explain Things To Me](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Men Explain Things To Me](https://openlibrary.org/works/OL17359118W?edition=ia%3Aisbn_9781608464661) | Ronin |
+| by: Rebecca Solnit | |
