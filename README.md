@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Men Explain Things To Me](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Men Explain Things To Me](https://openlibrary.org/works/OL17359118W?edition=ia%3Aisbn_9781608464661) | Ronin |
-| by: Rebecca Solnit | |
+| ![2001: A Space Odyssey](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [2001: A Space Odyssey](https://openlibrary.org/works/OL17365W?edition=ia%3A2001odyseeimwelt00clar) | Ronin |
+| by: Arthur C. Clarke | |
