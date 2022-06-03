@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![2001: A Space Odyssey](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [2001: A Space Odyssey](https://openlibrary.org/works/OL17365W?edition=ia%3A2001odyseeimwelt00clar) | Ronin |
-| by: Arthur C. Clarke | |
+| ![The DevOps handbook](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The DevOps handbook](https://openlibrary.org/works/OL19730495W) | Ronin |
+| by: Gene Kim | |
