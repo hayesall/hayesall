@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![A paradise built in hell: the extraordinary communities and strange joys that arise in disasters](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [A paradise built in hell: the extraordinary communities and strange joys that arise in disasters](https://openlibrary.org/works/OL15273775W?edition=ia%3Aparadisebuiltinh0000soln) | Ronin |
-| by: Rebecca Solnit | |
+| ![Boosted Statistical Relational Learners](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Boosted Statistical Relational Learners](https://openlibrary.org/works/OL26743201W) | Ronin |
+| by: Sriraam Natarajan | |
