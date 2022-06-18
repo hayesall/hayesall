@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Boosted Statistical Relational Learners](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Boosted Statistical Relational Learners](https://openlibrary.org/works/OL26743201W) | Ronin |
-| by: Sriraam Natarajan | |
+| ![Golem and the Jinni](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Golem and the Jinni](https://openlibrary.org/works/OL16809947W) | Ronin |
+| by: Helene Wecker | |
