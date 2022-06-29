@@ -12,5 +12,5 @@ applications to Health Informatics problems.
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
 | ![Abbey Classics Little Women](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Abbey Classics Little Women](https://openlibrary.org/works/OL7979417W?edition=ia%3Alittlewomenormeg00alco_1) | Ronin |
+| [Abbey Classics Little Women](https://openlibrary.org/works/OL7979417W) | Ronin |
 | by: Louisa May Alcott | |
