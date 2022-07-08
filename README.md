@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Bluebeard](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Bluebeard](https://openlibrary.org/works/OL15006607W?edition=ia%3Abluebearddeltafi00kurt) | Ronin |
-| by: Kurt Vonnegut | |
+| ![The Practice of Programming (Addison-Wesley Professional Computing Series)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Practice of Programming (Addison-Wesley Professional Computing Series)](https://openlibrary.org/works/OL15333872W?edition=ia%3Apracticeprogramm00kern) | Ronin |
+| by: Brian W. Kernighan | |
