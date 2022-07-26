@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Le mythe de Sisyphe](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Le mythe de Sisyphe](https://openlibrary.org/works/OL1230601W?edition=ia%3Alemythedesisyphe00camu) | Ronin |
-| by: Albert Camus | |
+| ![Burning Chrome](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Burning Chrome](https://openlibrary.org/works/OL27254W?edition=ia%3Aburningchrome0000gibs) | Ronin |
+| by: William F. Gibson | |
