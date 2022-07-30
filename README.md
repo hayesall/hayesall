@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Burning Chrome](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Burning Chrome](https://openlibrary.org/works/OL27254W?edition=ia%3Aburningchrome0000gibs) | Ronin |
-| by: William F. Gibson | |
+| ![The Disordered Cosmos](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Disordered Cosmos](https://openlibrary.org/works/OL21806051W) | Ronin |
+| by: Chanda Prescod-Weinstein | |
