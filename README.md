@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Disordered Cosmos](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Disordered Cosmos](https://openlibrary.org/works/OL21806051W) | Ronin |
-| by: Chanda Prescod-Weinstein | |
+| ![Tulips to Thresholds](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Tulips to Thresholds](https://openlibrary.org/works/OL28598785W) | Ronin |
+| by: Swets A. John | |
