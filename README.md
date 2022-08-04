@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Tulips to Thresholds](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Tulips to Thresholds](https://openlibrary.org/works/OL28598785W) | Ronin |
-| by: Swets A. John | |
+| ![Signal Detection Theory and ROC Analysis in Psychology and Diagnostics](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Signal Detection Theory and ROC Analysis in Psychology and Diagnostics](https://openlibrary.org/works/OL21130488W) | Ronin |
+| by: John A. Swets | |
