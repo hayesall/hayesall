@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![We Are What We Pretend to Be](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [We Are What We Pretend to Be](https://openlibrary.org/works/OL25731963W) | Ronin |
-| by: Kurt Vonnegut | |
+| ![One Flew Over the Cuckoo's Nest](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [One Flew Over the Cuckoo's Nest](https://openlibrary.org/works/OL2944469W?edition=ia%3Aoneflewovercucko00kenk) | Ronin |
+| by: Ken Kesey | |
