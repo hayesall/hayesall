@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![One Flew Over the Cuckoo's Nest](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [One Flew Over the Cuckoo's Nest](https://openlibrary.org/works/OL2944469W?edition=ia%3Aoneflewovercucko00kenk) | Ronin |
-| by: Ken Kesey | |
+| ![The creative destruction of medicine](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The creative destruction of medicine](https://openlibrary.org/works/OL16184603W?edition=ia%3Acreativedestruct0000topo) | Ronin |
+| by: Eric J. Topol | |
