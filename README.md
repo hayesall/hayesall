@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The creative destruction of medicine](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The creative destruction of medicine](https://openlibrary.org/works/OL16184603W?edition=ia%3Acreativedestruct0000topo) | Ronin |
-| by: Eric J. Topol | |
+| ![Somebody's Daughter](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Somebody's Daughter](https://openlibrary.org/works/OL22061778W) | Ronin |
+| by: Ashley C. Ford | |
