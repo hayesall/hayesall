@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Extremely Loud and Incredibly Close](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Extremely Loud and Incredibly Close](https://openlibrary.org/works/OL5738259W?edition=ia%3Aextremementforte0000foer) | Ronin |
-| by: Jonathan Safran Foer | |
+| ![Reamde](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Reamde](https://openlibrary.org/works/OL16099614W?edition=ia%3Areamde0000step_n6l7) | Ronin |
+| by: Neal Stephenson | |
