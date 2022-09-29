@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Tiny Habits](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Tiny Habits](https://openlibrary.org/works/OL21232253W) | Ronin |
-| by: BJ Fogg Ph.D | |
+| ![The City We Became](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The City We Became](https://openlibrary.org/works/OL20656799W) | Ronin |
+| by: N. K. Jemisin | |
