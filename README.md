@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The City We Became](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The City We Became](https://openlibrary.org/works/OL20656799W) | Ronin |
-| by: N. K. Jemisin | |
+| ![Artemis](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Artemis](https://openlibrary.org/works/OL17837968W?edition=ia%3Aartemisnovel0000weir) | Ronin |
+| by: Andy Weir | |
