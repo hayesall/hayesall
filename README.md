@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Artemis](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Artemis](https://openlibrary.org/works/OL17837968W?edition=ia%3Aartemisnovel0000weir) | Ronin |
-| by: Andy Weir | |
+| ![The Sympathizer](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Sympathizer](https://openlibrary.org/works/OL17345497W?edition=ia%3Asympathizer0000nguy_o2a7) | Ronin |
+| by: Viet Thanh Nguyen | |
