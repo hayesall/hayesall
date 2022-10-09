@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Sympathizer](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Sympathizer](https://openlibrary.org/works/OL17345497W?edition=ia%3Asympathizer0000nguy_o2a7) | Ronin |
-| by: Viet Thanh Nguyen | |
+| ![Trust Exercise](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Trust Exercise](https://openlibrary.org/works/OL20129824W) | Ronin |
+| by: Susan Choi | |
