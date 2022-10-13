@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Trust Exercise](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Trust Exercise](https://openlibrary.org/works/OL20129824W) | Ronin |
-| by: Susan Choi | |
+| ![The Night Watchman](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Night Watchman](https://openlibrary.org/works/OL20649930W) | Ronin |
+| by: Louise Erdrich | |
