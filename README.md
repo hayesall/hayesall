@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Night Watchman](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Night Watchman](https://openlibrary.org/works/OL20649930W) | Ronin |
-| by: Louise Erdrich | |
+| ![The Short Novels of John Steinbeck (Cannery Row / Moon is Down / Of Mice and Men / Pearl / Red Pony / Tortilla Flat)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Short Novels of John Steinbeck (Cannery Row / Moon is Down / Of Mice and Men / Pearl / Red Pony / Tortilla Flat)](https://openlibrary.org/works/OL23169W?edition=ia%3Ashortnovelstorti00stei) | Ronin |
+| by: John Steinbeck | |
