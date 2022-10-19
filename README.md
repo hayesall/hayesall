@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Short Novels of John Steinbeck (Cannery Row / Moon is Down / Of Mice and Men / Pearl / Red Pony / Tortilla Flat)](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Short Novels of John Steinbeck (Cannery Row / Moon is Down / Of Mice and Men / Pearl / Red Pony / Tortilla Flat)](https://openlibrary.org/works/OL23169W?edition=ia%3Ashortnovelstorti00stei) | Ronin |
-| by: John Steinbeck | |
+| ![Cat's Cradle](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Cat's Cradle](https://openlibrary.org/works/OL98454W?edition=ia%3Acatscradle0000unse_y7t1) | Ronin |
+| by: Kurt Vonnegut | |
