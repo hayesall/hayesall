@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Cat's Cradle](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Cat's Cradle](https://openlibrary.org/works/OL98454W?edition=ia%3Acatscradle0000unse_y7t1) | Ronin |
-| by: Kurt Vonnegut | |
+| ![The Secret History](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Secret History](https://openlibrary.org/works/OL4321141W?edition=ia%3Asecrethistory0000tart) | Ronin |
+| by: Donna Tartt | |
