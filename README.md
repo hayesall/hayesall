@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Secret History](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Secret History](https://openlibrary.org/works/OL4321141W?edition=ia%3Asecrethistory0000tart) | Ronin |
-| by: Donna Tartt | |
+| ![The Botany of Desire: A Plant's-Eye View of the World](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Botany of Desire: A Plant's-Eye View of the World](https://openlibrary.org/works/OL3296485W?edition=ia%3Abotanyofdesirepl00poll) | Ronin |
+| by: Michael Pollan | |
