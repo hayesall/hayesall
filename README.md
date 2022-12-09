@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Tomorrow, and Tomorrow, and Tomorrow](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Tomorrow, and Tomorrow, and Tomorrow](https://openlibrary.org/works/OL26004554W) | Ronin |
-| by: Gabrielle Zevin | |
+| ![The Kite Runner](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Kite Runner](https://openlibrary.org/works/OL5781992W?edition=ia%3Akiterunner00hoss_4) | Ronin |
+| by: Khaled Hosseini | |
