@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Kite Runner](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Kite Runner](https://openlibrary.org/works/OL5781992W?edition=ia%3Akiterunner00hoss_4) | Ronin |
-| by: Khaled Hosseini | |
+| ![The Yiddish Policemen's Union](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The Yiddish Policemen's Union](https://openlibrary.org/works/OL119430W?edition=ia%3Aassociacaojudaic0000chab) | Ronin |
+| by: Michael Chabon | |
