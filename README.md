@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Yiddish Policemen's Union](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Yiddish Policemen's Union](https://openlibrary.org/works/OL119430W?edition=ia%3Aleclubdespolicie0000chab_t2a9) | Ronin |
-| by: Michael Chabon | |
+| ![A Christmas Carol](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [A Christmas Carol](https://openlibrary.org/works/OL14868643W?edition=librivox%3Aa-christmas-carol-version-12-by-charles-dickens/) | Ronin |
+| by: Charles Dickens | |
