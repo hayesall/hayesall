@@ -12,5 +12,5 @@ applications to Health Informatics problems.
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
 | ![A Christmas Carol](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [A Christmas Carol](https://openlibrary.org/works/OL14868643W?edition=librivox%3Aa-christmas-carol-version-12-by-charles-dickens/) | Ronin |
+| [A Christmas Carol](https://openlibrary.org/works/OL14868643W?edition=ia%3Achristmascarolil00dickuoft) | Ronin |
 | by: Charles Dickens | |
