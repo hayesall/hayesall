@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![A Christmas Carol](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [A Christmas Carol](https://openlibrary.org/works/OL14868643W?edition=ia%3Achristmascarolil00dickuoft) | Ronin |
-| by: Charles Dickens | |
+| ![The house in the Cerulean Sea](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The house in the Cerulean Sea](https://openlibrary.org/works/OL20656224W?edition=ia%3Ahouseinceruleans0000klun) | Ronin |
+| by: T. J. Klune | |
