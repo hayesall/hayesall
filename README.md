@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The house in the Cerulean Sea](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The house in the Cerulean Sea](https://openlibrary.org/works/OL20656224W?edition=ia%3Ahouseinceruleans0000klun) | Ronin |
-| by: T. J. Klune | |
+| ![Babel : Or the Necessity of Violence](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Babel : Or the Necessity of Violence](https://openlibrary.org/works/OL26443093W) | Ronin |
+| by: R. F. Kuang | |
