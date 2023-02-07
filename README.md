@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Babel : Or the Necessity of Violence](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Babel : Or the Necessity of Violence](https://openlibrary.org/works/OL26443093W) | Ronin |
-| by: R. F. Kuang | |
+| ![Human compatible](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [Human compatible](https://openlibrary.org/works/OL20492448W?edition=ia%3Ahumancompatiblea0000russ) | Ronin |
+| by: Stuart J. Russell | |
