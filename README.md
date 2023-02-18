@@ -11,6 +11,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![Human compatible](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Human compatible](https://openlibrary.org/works/OL20492448W?edition=ia%3Ahumancompatiblea0000russ) | Ronin |
-| by: Stuart J. Russell | |
+| ![La casa de los espíritus](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [La casa de los espíritus](https://openlibrary.org/works/OL1905255W?edition=ia%3Alacasadeglispiri0000alle) | Ronin |
+| by: Isabel Allende | |
