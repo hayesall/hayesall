@@ -1,4 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/alexanderlhayes?label=%40alexanderlhayes&style=social)](https://twitter.com/alexanderlhayes)
 [![GitHub followers](https://img.shields.io/github/followers/hayesall?label=%40hayesall&style=social)](https://github.com/hayesall)
 
 I'm a Ph.D. student by day and a software engineer by the cover of night.
