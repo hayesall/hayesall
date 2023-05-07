@@ -11,5 +11,5 @@ applications to Health Informatics problems.
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
 | ![Spinning Silver](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [Spinning Silver](https://openlibrary.org/works/OL19145737W?edition=ia%3Aspinningsilver0000novi_r6e9) | Ronin |
+| [Spinning Silver](https://openlibrary.org/works/OL19145737W?edition=ia%3Aspinningsilver0000novi) | Ronin |
 | by: Naomi Novik | |
