@@ -10,6 +10,6 @@ applications to Health Informatics problems.
 
 | Currently Reading       | Dog Tax |
 | :---------------------: | :-----: |
-| ![The Dispossessed: An Ambiguous Utopia](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
-| [The Dispossessed: An Ambiguous Utopia](https://openlibrary.org/works/OL59863W?edition=ia%3Adispossessed00legurich) | Ronin |
+| ![The  dispossessed: a novel](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/cover.jpg) | ![Ronin](https://raw.githubusercontent.com/hayesall/hayesall/master/static/images/ronin.jpg) |
+| [The  dispossessed: a novel](https://openlibrary.org/works/OL59863W?edition=key%3A/books/OL3684801M) | Ronin |
 | by: Ursula K. Le Guin | |
